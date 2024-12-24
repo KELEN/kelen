@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+This is my blog
+
+[kelen.cc](https://www.kelen.cc)
+
 <!--
 **KELEN/kelen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
